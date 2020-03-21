@@ -1,4 +1,4 @@
-##Siamese-Pytorch-Mnist
+Siamese-Pytorch-Mnist
 
 Thanks to [Facial Similarity with Siamese Networks in Pytorch](https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch#facial-similarity-with-siamese-networks-in-pytorch)
 ## Install
