@@ -18,6 +18,7 @@ $ python test.py
 The model is already trained.
 
 ## Result
+The accuracy of test dataset is over 98% 
 ![](https://s1.ax1x.com/2020/03/21/8WAWb4.png)
 ![](https://s1.ax1x.com/2020/03/21/8WVwhn.png)
 ![](https://s1.ax1x.com/2020/03/21/8WVv9I.png)
